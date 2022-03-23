@@ -16,3 +16,4 @@
 10. git branch -d rama-localm = (la letra (d) es de delete) Este comando sirve para eliminar una rama que ya no se necesite. 
 
 11. git push = Este comando sirve para actualizar los cambios efectuados al codigo y subirlos a github. 
+12. git commit -am =  
